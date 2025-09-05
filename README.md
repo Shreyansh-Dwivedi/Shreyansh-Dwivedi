@@ -42,3 +42,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">LeetCode:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/shreyansh_dwivedi_108/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
